@@ -1,4 +1,10 @@
 *.o
+*.out
+*.exe
+01-fundamentals/hello
+01-fundamentals/test2
+01-fundamentals/memory_demo
+01-fundamentals/dangling*.o
 hello
 test2
 *.out
